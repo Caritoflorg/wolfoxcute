@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    }
+/* HEADER */
+header {
+    background: rgb(255, 228, 179);
+    padding: 10px;
+}
+
+h1 {
+    color: #3267b6;
+    font-family: 'Indie Flower', cursive,Arial, Helvetica, sans-serif;
+}
+
+header h1 {
+    text-align: center;
+}
+
+/* FOOTER */
+footer {
+    background: rgb(172, 209, 247);
+    padding: 20px;
+    float: left;
+    display: block;
+    width: 100%;
+}
